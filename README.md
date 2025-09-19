@@ -10,7 +10,7 @@
 * (android) https://github.com/slp/gameboid
 * (not good, for notaz version ubuntu x86) gpsp_v4.tar.gz
 * (not good, for hsinyuwang xboy version build) gpsp-main_v2.tar.gz
-
+* X-Boy_20221023.img
 
 ## How to build for LiulianPi v3s
 * $ cd liulianpi_v3s
